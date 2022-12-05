@@ -21,8 +21,8 @@ $musica->listarMusicas();
 ?>
 
 <br><br>
-<h2 style="font-family: cursive; color: #ffffff;">feito por: Vasconcelo Junior
-<h4 style="font-family: cursive; color: #ffffff;">vasconcelojr0@gmail.com
+<h2 style="font-family: cursive; color: #fff;">feito por: Vasconcelo Junior
+<h4 style="font-family: cursive; color: #fff;">vasconcelojr0@gmail.com
     
 </body>
 
